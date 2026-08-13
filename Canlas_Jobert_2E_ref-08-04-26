@@ -1,3 +1,13 @@
+name = str("jobert")
+print (name)
+weight = int(62)
+print (weight)
+pounds = float(69.9)
+print = (pounds)
+mode = bool("Easy")
+print (mode)
+
+
 name = ("Jobert")
 age = ("26")
 address = ("San Fernando")
